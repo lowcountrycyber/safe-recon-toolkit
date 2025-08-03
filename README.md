@@ -30,7 +30,7 @@ The Safe Recon Toolkit enables security consultants and IT professionals to quic
 2. Open PowerShell and navigate to the script location  
 3. Run the script:  
    ```powershell
-   .\ReconToolkit.ps1
+   .\safe-recon-toolkit.ps1
    ```  
 4. Use the menu to run the 60-second reconnaissance or exit  
 5. Find generated reports in `C:\ReconReport\Recon-YYYYMMDD-HHMMSS\`
